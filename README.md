@@ -3,21 +3,6 @@
 This fork fixes Oobabooga OpenAI API compatibility
 
 
-## Original Readme:
-
-title: chat-ui
-emoji: 🔥
-colorFrom: purple
-colorTo: purple
-sdk: docker
-pinned: false
-license: apache-2.0
-base_path: /chat
-app_port: 3000
-failure_strategy: rollback
-load_balancing_strategy: random
-
-
 # Chat UI
 
 ![Chat UI repository thumbnail](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/chatui-websearch.png)
