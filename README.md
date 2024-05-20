@@ -1,3 +1,10 @@
+## About this Fork
+
+This fork fixes Oobabooga OpenAI API compatibility
+
+
+# Original Readme:
+
 ---
 title: chat-ui
 emoji: 🔥
