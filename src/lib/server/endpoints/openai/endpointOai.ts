@@ -144,6 +144,7 @@ async function prepareMessages(
 	return Promise.all(
 		messages.map(async (message) => {
 			if (message.from === "user") {
+/*			if (message.from === "user") {
 				return {
 					role: message.from,
 					content: [
@@ -152,6 +153,7 @@ async function prepareMessages(
 					],
 				};
 			}
+*/			
 			return {
 				role: message.from,
 				content: message.content,
