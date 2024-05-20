@@ -3,9 +3,8 @@
 This fork fixes Oobabooga OpenAI API compatibility
 
 
-# Original Readme:
+## Original Readme:
 
----
 title: chat-ui
 emoji: 🔥
 colorFrom: purple
@@ -17,7 +16,7 @@ base_path: /chat
 app_port: 3000
 failure_strategy: rollback
 load_balancing_strategy: random
----
+
 
 # Chat UI
 
